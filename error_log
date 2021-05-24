@@ -1,0 +1,15 @@
+[22-May-2021 17:25:15 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:25:19 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:25:22 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:25:24 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:25:26 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:27:52 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:27:56 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:27:59 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:28:01 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:28:03 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:28:07 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:28:20 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 17:28:46 UTC] PHP Parse error:  syntax error, unexpected '.237' (T_DNUMBER) in /home/agalindo/public_html/database.php on line 3
+[22-May-2021 20:24:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/agalindo/public_html/login.php on line 18
+[22-May-2021 20:26:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/agalindo/public_html/login.php on line 18
